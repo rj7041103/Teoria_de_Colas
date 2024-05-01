@@ -19,3 +19,6 @@ deactivate
 
 Comando de ejecucion:
 flet -r colasPrioridad.py
+
+Interfaz en Figma:
+https://www.figma.com/file/ELyv48GE62tRAAFzMUEBfM/Login-Page-UI-Design-(Community)?type=design&node-id=1%3A9&mode=design&t=3P0BpqLu1NQLF9Ib-1
